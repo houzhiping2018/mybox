@@ -1,0 +1,8 @@
+zuul:
+  routes:
+    api-menber:
+      path: /api-menber/**
+      serviceId: app-mysite-member
+    api-order:
+      path: /api-order/**
+      serviceId: app-mysite-order
