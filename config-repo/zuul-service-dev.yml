@@ -3,6 +3,6 @@ zuul:
     api-menber:
       path: /api-menber/**
       serviceId: app-mysite-member
-    api-order：
-      路径：/ api-order / **
-      serviceId：app-mysite-order
+    api-order:
+      路径:/api-order/**
+      serviceId:app-mysite-order
