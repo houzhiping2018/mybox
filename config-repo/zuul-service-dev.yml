@@ -4,5 +4,5 @@ zuul:
       path: /api-menber/**
       serviceId: app-mysite-member
     api-order:
-      路径:/api-order/**
+      path:/api-order/**
       serviceId:app-mysite-order
